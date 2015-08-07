@@ -1,10 +1,5 @@
 <!doctype html>
 <html>
-<head>
-<meta charset="utf-8">
-<title>Untitled Document</title>
-</head>
-
 <body>
 <?php
 $directory = dirname(__FILE__)."/folder_with_files";
